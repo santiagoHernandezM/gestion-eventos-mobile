@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">loginRegistro</string>
+    <string-array name="fichas">
+        <item>345545</item>
+        <item>2617684</item>
+    </string-array>
+    <string name="title_activity_principal">Principal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Michel Osorio</string>
+    <string name="nav_header_subtitle">MichelOsorioBarrera@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
