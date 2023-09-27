@@ -10,18 +10,19 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.loginregistro.databinding.FragmentHomeBinding;
+import com.example.loginregistro.databinding.FragmentEventosBinding;
+import com.example.loginregistro.databinding.FragmentEventosBinding;
 
 public class HomeFragment extends Fragment {
 
-    private FragmentHomeBinding binding;
+    private FragmentEventosBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         HomeViewModel homeViewModel =
                 new ViewModelProvider(this).get(HomeViewModel.class);
 
-        binding = FragmentHomeBinding.inflate(inflater, container, false);
+        binding = FragmentEventosBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
         /*final TextView textView = binding.textHome;
