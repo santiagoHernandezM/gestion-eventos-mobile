@@ -4,15 +4,27 @@
         <item>345545</item>
         <item>2617684</item>
     </string-array>
+
+    <string-array name="competencias">
+        <item>SST</item>
+        <item>DEPORTE</item>
+        <item>PROGRAMACION</item>
+    </string-array>
+
+    <string-array name="resultados">
+        <item>El trabajo</item>
+        <item>Actividad fisica</item>
+        <item>programar</item>
+    </string-array>
     <string name="title_activity_principal">Principal</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Michel Osorio</string>
     <string name="nav_header_subtitle">MichelOsorioBarrera@gmail.com</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Configuracion</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">Eventos</string>
+    <string name="menu_gallery">Regional</string>
+    <string name="menu_slideshow">Centro</string>
 </resources>
